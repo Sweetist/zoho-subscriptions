@@ -19,7 +19,7 @@ module Zoho
     autoload :Payment
     autoload :CreditNotes
     autoload :Refund
-    autoload :HostedPage
+    autoload :Hostedpage
     autoload :Event
   end
 end
